@@ -11,3 +11,8 @@
     Datei ausgeführt wird.
 1. `App.java` Datei wird geändert aber nicht gespeichert und der alte Zustand der Datei wird
     kompiliert, was zu keiner Änderung in der `App.class` Datei führt.
+
+## GitHub Codespaces
+
+Für die Konfiguration, siehe die `.devcontainer/docker-compose.yml` Datei und folgende Dokumentation
+https://containers.dev/guide/dockerfile.
