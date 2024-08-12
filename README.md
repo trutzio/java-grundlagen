@@ -1,3 +1,12 @@
+## Java Entwicklung mit VSC
+
+1. In der `settings.json` des Benutzers das JDK konfigurieren, z.B.:
+```json
+"java.configuration.runtimes": [
+    {"name": "JavaSE-17", "path": "C:\\Program Files\\BellSoft\\LibericaJDK-17", "default": true}
+]
+```
+
 ## Java Entwicklung ohne IDE
 
 1. `javac -version` überprüft, ob ein Java Compiler installiert ist und in welcher Version
