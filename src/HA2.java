@@ -1,8 +1,10 @@
 class HA2 {
     public static void main(String[] args) {
     
-        int[] zahlen = new int[10_000];
-        for (int i = 0; i <= 9_999; i++) {
+        int n = 10_000; // kleine Korrektur von Christian
+
+        int[] zahlen = new int[n];
+        for (int i = 0; i <= n - 1; i++) {
             zahlen [i] = i + 1;
         }
         
