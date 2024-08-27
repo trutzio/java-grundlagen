@@ -1,14 +1,15 @@
 class Adresse {
-  
-    String strasse;
-    String ort;
-    int hausnummer;
-    int postleitzahl;
 
-    Adresse(String s, int h, int p, String o) {
-strasse = s;
-ort = o;
-hausnummer = h;
-postleitzahl = p;
+    String strasse;
+    int hausnummer;
+    int plz;
+    String ort;
+
+    Adresse (String strasse, int haus, int plz, String ort) {
+        this.strasse = strasse;
+        this.hausnummer = haus;
+        this.plz = plz;
+        this.ort = ort;
     }
+    
 }
