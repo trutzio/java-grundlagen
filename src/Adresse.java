@@ -1,8 +1,14 @@
 class Adresse {
   
-    String strasse = "von-Flotow-Str.";
-    String ort = "Marl";
+    String strasse;
+    String ort;
     int hausnummer;
     int postleitzahl;
 
+    Adresse(String s, int h, int p, String o) {
+strasse = s;
+ort = o;
+hausnummer = h;
+postleitzahl = p;
+    }
 }
