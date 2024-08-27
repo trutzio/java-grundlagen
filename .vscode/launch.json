@@ -1,0 +1,92 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "java-grundlagen_10589510"
+        },
+        {
+            "type": "java",
+            "name": "App2",
+            "request": "launch",
+            "mainClass": "App2",
+            "projectName": "java-grundlagen_10589510"
+        },
+        {
+            "type": "java",
+            "name": "App3",
+            "request": "launch",
+            "mainClass": "App3",
+            "projectName": "java-grundlagen_10589510"
+        },
+        {
+            "type": "java",
+            "name": "App4",
+            "request": "launch",
+            "mainClass": "App4",
+            "projectName": "java-grundlagen_10589510"
+        },
+        {
+            "type": "java",
+            "name": "App5",
+            "request": "launch",
+            "mainClass": "App5",
+            "projectName": "java-grundlagen_10589510"
+        },
+        {
+            "type": "java",
+            "name": "App6",
+            "request": "launch",
+            "mainClass": "App6",
+            "projectName": "java-grundlagen_10589510"
+        },
+        {
+            "type": "java",
+            "name": "App7",
+            "request": "launch",
+            "mainClass": "App7",
+            "projectName": "java-grundlagen_10589510"
+        },
+        {
+            "type": "java",
+            "name": "App8",
+            "request": "launch",
+            "mainClass": "App8",
+            "projectName": "java-grundlagen_10589510",
+            "vmArgs": "-ea"
+        },
+        {
+            "type": "java",
+            "name": "AppKonHa",
+            "request": "launch",
+            "mainClass": "AppKonHa",
+            "projectName": "java-grundlagen_10589510"
+        },
+        {
+            "type": "java",
+            "name": "HA",
+            "request": "launch",
+            "mainClass": "HA",
+            "projectName": "java-grundlagen_10589510"
+        },
+        {
+            "type": "java",
+            "name": "HA2",
+            "request": "launch",
+            "mainClass": "HA2",
+            "projectName": "java-grundlagen_10589510"
+        }
+    ]
+}
