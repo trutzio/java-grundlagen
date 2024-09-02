@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App10",
+            "request": "launch",
+            "mainClass": "App10",
+            "projectName": "java-grundlagen_28c0247f"
+        },
+        {
+            "type": "java",
+            "name": "App9",
+            "request": "launch",
+            "mainClass": "App9",
+            "projectName": "java-grundlagen_28c0247f"
+        },
+        {
+            "type": "java",
+            "name": "HA3",
+            "request": "launch",
+            "mainClass": "HA3",
+            "projectName": "java-grundlagen_28c0247f"
+        },
+        {
+            "type": "java",
+            "name": "App7",
+            "request": "launch",
+            "mainClass": "App7",
+            "projectName": "java-grundlagen_28c0247f"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

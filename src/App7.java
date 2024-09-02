@@ -7,6 +7,7 @@ class App7 {
             System.out.println(zahl);
         }
         System.out.println(zahlen[0]); // lesender Zugriff
+        
     }
 
 }
