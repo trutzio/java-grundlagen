@@ -5,7 +5,7 @@ public class App9 {
         LinkedList liste = new LinkedList();
         System.out.println(liste.size());
         liste.add("Nektarinen");
-        liste.add("Äpfel");
+        liste.add("Äpfel");                                                             
         System.out.println(liste.size());
         System.out.println(liste.getLast());
     }

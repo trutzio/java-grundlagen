@@ -1,4 +1,4 @@
-class Tier {
+abstract class Tier {
 
     String name = "NONAME";
 
@@ -9,5 +9,5 @@ class Tier {
     void wachse() {
         hoehe = hoehe + 1;
     }
-    
+   abstract void bewege(); 
 }
